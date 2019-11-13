@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Seth Dousman",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "mysql-amazon"
+  }
+}
